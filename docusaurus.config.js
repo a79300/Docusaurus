@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Oficina Temas Turbo',
-  tagline: 'Ganda Bote',
+  tagline: 'Tudo pela metade do dobro!',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -18,7 +18,7 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'a79300', // Usually your GitHub org/user name.
+  organizationName: 'ualg/a79300', // Usually your GitHub org/user name.
   projectName: 'Docusaurus', // Usually your repo name.
   deploymentBranch: 'gh-pages',
 
